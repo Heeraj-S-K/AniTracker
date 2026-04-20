@@ -1,4 +1,4 @@
-# 🎬 AniTrack – Anime Tracker & Player
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7e13f2c8-2938-4d50-8953-a16f957e7ac4" /># 🎬 AniTrack – Anime Tracker & Player
 
 AniTrack is a desktop application that allows users to track their anime progress and watch episodes within the same app. Built with an offline-first approach, it combines tracking and playback into a single seamless experience.
 
@@ -16,9 +16,6 @@ AniTrack is a desktop application that allows users to track their anime progres
 - React
 - Node.js
 
-## 📸 Screenshots
-
-(Add screenshots here)
 
 ## 🎯 Use Case
 
